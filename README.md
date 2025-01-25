@@ -1,1 +1,1 @@
-# rstrade
+# Rs Algo Trading.
